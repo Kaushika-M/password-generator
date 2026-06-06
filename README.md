@@ -1,3 +1,3 @@
 # Password-generator
 <br>
-This webiste generates passwords of given length.
+This website generates passwords of given length.
